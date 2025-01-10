@@ -1,0 +1,21 @@
+Deposit: 2000.0 | New balance: 3000.0
+Deposit: 2000.0 | New balance: 3000.0
+Deposit: 20000.0 | New balance: 21000.0
+Deposit: 300000.0 | New balance: 310000.0
+Deposit: 20000.0 | New balance: 21000.0
+Deposit: 20000.0 | New balance: 21000.0
+Deposit: 20000.0 | New balance: 30000.0
+Deposit: 20000.0 | New balance: 30000.0
+Deposit: 20000.0 | New balance: 21000.0
+Deposit: 20000.0 | New balance: 21000.0
+Deposit: 20000.0 | New balance: 30000.0
+Deposit: 20000.0 | New balance: 21000.0
+withdrawl:300.0 | New balance: 20700.0
+Deposit: 20000.0 | New balance: 30000.0
+withdrawl:30000.0 | New balance: 0.0
+Deposit: 20000.0 | New balance: 120000.0
+withdrawl:50000.0 | New balance: 70000.0
+Deposit: 30000.0 | New balance: 130000.0
+withdrawl:20000.0 | New balance: 110000.0
+Deposit: 40000.0 | New balance: 80000.0
+withdrawl:10000.0 | New balance: 70000.0
