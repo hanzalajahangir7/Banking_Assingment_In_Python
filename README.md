@@ -1,0 +1,2 @@
+# Banking_Assingment_In_Python
+ This banking system project is a demonstration of fundamental Python skills, including working with functions, lists, dictionaries, file I/O, and error handling. It provides a clear, structured way to manage banking operations while ensuring smooth interaction with the user. The project can be further enhanced by adding more advanced features, such as user authentication or a graphical user interface (GUI), but serves as a solid foundation for building more complex systems.
